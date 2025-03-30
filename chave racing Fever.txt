@@ -1,0 +1,8 @@
+ticket
+vip
+coins
+level
+polícia 
+
+
+grep -rih -C 5 "premium" /storage/emulated/0/MT2/apks/ grep -E "(0x20|0x30)" > resultsx.txt
