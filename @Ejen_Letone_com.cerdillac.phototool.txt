@@ -1,0 +1,32 @@
+[BEGIN]
+
+⚙︎PicsKit Patch
+
+⚙︎Version Name: 2.7
+
+⚙︎︎Patch Features: Vip Purchased
+
+⚙︎Patch By @Ejen_Letone
+
+⚙︎For More Awesome Patch, ClickHere To Join ⪩ Patcher_Hub.t.me
+
+<<< Requirements: >>>
+1. Root = NO
+2. Signatures Kill = YES 
+
+[use_Signature_Verification_Killer]
+
+[CLASSES]
+
+{"class name":"Llightcone/com/pack/h/g;"}
+{"method name":"v"}
+{"return type":"Z"}
+{"replaced":"12 10 0f 00"}
+
+{"class name":"Llightcone/com/pack/h/g;"}
+{"method name":"w"}
+{"return type":"Z"}
+{"replaced":"12 10 0f 00"}
+
+[END]
+Good Luck By Patcher_Hub.t.me
